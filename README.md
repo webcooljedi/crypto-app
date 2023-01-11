@@ -1,6 +1,6 @@
 crypto-app
 
-npm 14 / 16 need
+npm 14 need
 
 npm i
 ===>>>>

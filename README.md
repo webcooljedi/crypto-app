@@ -1,6 +1,6 @@
 crypto-app
 
-npm 16 need
+npm 16 is necessary
 
 npm i
 ===>>>>
